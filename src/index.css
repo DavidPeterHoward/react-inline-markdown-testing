@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.aside {
+  width: 60%;
+  max-width: 1200px;
+  height: 100vh;
+  margin: auto;
+}
+
+.editor {
+  height: 15%;
+  width: 90%;
+}
+
+.edit-box {
+  height: 100%;
+  margin-left: -20px;
+  padding-right: 200px;
+  padding: 6px 0;
+  left: -50vw;
+  width: 50vw;
+  position: absolute;
+  border-right: 1px solid #232323;
+}
+
+.edit-box:hover {
+  background: #eaeaeaaa;
+}
+
+.markdown-node-container {
+  position: relative;
+}
