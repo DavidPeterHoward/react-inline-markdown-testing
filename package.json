@@ -10,7 +10,7 @@
     "react-jsx-parser": "^1.20.0",
     "react-markdown": "^4.2.2",
     "react-minimal-pie-chart": "^5.0.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "remark": "^11.0.1",
     "styled-components": "^4.4.0"
   },
